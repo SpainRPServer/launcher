@@ -1,2 +1,5 @@
 theme: jekyll-theme-modernist
 show_downloads: true
+ 	plugins:
+ 	- jekyll-seo-tag
+ 	author: Barud
