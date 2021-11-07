@@ -1,0 +1,169 @@
+[p1_button0]
+button_action=0
+button_url=
+dim_x=611
+dim_y=429
+img0=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\updates0.png
+img1=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\updates1.png
+img2=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\updates1.png
+o_height=47
+o_width=293
+obj_layer=5
+wait_for_end=0
+[p1_button1]
+button_action=0
+button_url=
+dim_x=610
+dim_y=289
+img0=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\patch0.png
+img1=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\patch1.png
+img2=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\sp0.png
+o_height=47
+o_width=293
+obj_layer=5
+wait_for_end=0
+[p1_button2]
+button_action=0
+button_url=
+dim_x=612
+dim_y=221
+img0=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\forum0.png
+img1=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\forum1.png
+img2=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\forum1.png
+o_height=47
+o_width=293
+obj_layer=5
+wait_for_end=0
+[p1_button3]
+button_action=0
+button_url=
+dim_x=39
+dim_y=519
+img0=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\launch0.png
+img1=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\launch1.png
+img2=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\launch2.png
+o_height=63
+o_width=404
+obj_layer=5
+wait_for_end=0
+[p1_button4]
+button_action=0
+button_url=
+dim_x=611
+dim_y=359
+img0=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\sp0.png
+img1=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\sp1.png
+img2=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\sp1.png
+o_height=47
+o_width=293
+obj_layer=5
+wait_for_end=0
+[p1_buttons]
+count=5
+[p1_image0]
+click_url=
+clickable=0
+dim_x=37
+dim_y=73
+download=0
+img_url=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\overlay.png
+o_height=402
+o_width=421
+[p1_image1]
+click_url=
+clickable=0
+dim_x=604
+dim_y=168
+download=0
+img_url=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\additionaloptions.png
+o_height=36
+o_width=303
+[p1_images]
+count=2
+[p1_string0]
+dim_x=569
+dim_y=608
+font_bold=0
+font_italic=0
+font_name=Tahoma
+font_size=10
+o_height=91
+o_width=434
+obj_layer=5
+text=Copyright © 2019 My Game Company Inc. All Rights Reserved.
+text_color=16777215
+text_color_b=255
+text_color_g=255
+text_color_r=255
+[p1_strings]
+count=1
+[page_0]
+background_type=1
+bg_image=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\splash.jpg
+name=Splash
+[page_1]
+background_type=1
+bg_color=16777215
+bg_color_b=255
+bg_color_g=255
+bg_color_r=255
+bg_image=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\background.jpg
+grad_color1=16777215
+grad_color2=14511138
+grad_vert=1
+name=Main
+[project]
+author=TresilloCrack
+bg_music=0
+bg_music_file=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\
+bg_music_loop=0
+exe_name=launcher
+includesplash=1
+launcherpages=2
+Template=Sword Craft
+title=SpainMC
+version_created=1.54
+[startup]
+integrity=1
+[update_strings]
+0=Welcome to the Patching System
+1=Retrieving online version available
+2=TIMEOUT trying to reach online version number
+3=Could not retrieve local version information from the registry
+4=Local version file does not exist!
+5=Could not read local version file
+6=Could not retrieve local version information from the local file
+7=Local INI file does not exist!
+8=Error in reading local INI file
+9=Could not retrieve local version information from the INI file
+10=Welcome to the Patching System
+11=Patch URL does not exist!
+12=Found Patch File
+13=Creating temporary directories
+14=Patch file specified in Patch Config is empty...
+15=Downloading remote patch file list...
+16=Downloading remote patch file list...
+17=Reading Registry...
+18=Starting Patch Routine...
+19=Starting Patch Routine...
+20=There is an update/patch available.
+21=Do you wish to update?
+22=You are already up to date!
+23=However, you can re-patch, fix files or revert by forcing an update...
+24=Starting Patch Routine...
+25=Patching Game
+26=Patch Process aborted by user
+27=Checking File Integrity
+28=Updating Registry Entry...
+29=Updating Local Update Information (File)
+30=Updating local INI update information
+31=Patching Complete!
+32=The patching process completed. You should now be all up to date.
+33=The patching process was aborted.
+[updater]
+autoupdate=0
+forceupdate=0
+includeupdater=0
+[window]
+win_height=640
+win_width=1024
