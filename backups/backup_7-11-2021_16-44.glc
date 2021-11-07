@@ -8,10 +8,10 @@ mc_serverport=25565
 mc_version=1.17.1
 mc_width=
 [online]
-patch_file=https://drive.google.com/file/d/1zSdK4LN_x6PDUyO2ovHXW2SqKR2LfRwh/view?usp=sharing
-patch_url=https://drive.google.com/drive/folders/112RViqWdaU3YZBCQmVuTms3XihLBFgEG?usp=sharing
-salt=SagTgEfj1q2sjE
-version_file=https://docs.google.com/document/d/1PkDrD8vBW5Y4R4Fv8K-KA_q0mI48C5V8VKiDvISho98/edit?usp=sharing
+patch_file=
+patch_url=
+salt=
+version_file=
 [p1_button0]
 button_action=8
 button_commandline=Button 3
@@ -38,9 +38,9 @@ registry_string=
 registry_wait_for_end=0
 wait_for_end=1
 [p1_button1]
-button_action=0
+button_action=1
 button_commandline=Button 2
-button_url=C:\Program Files\Java\jre6\bin\java.exe" -Xmx1024M -Xms512M -cp Minecraft.exe net.minecraft.LauncherFrame
+button_url=
 dim_x=55
 dim_y=15
 friendly_name=Button 2
@@ -200,12 +200,12 @@ preloader_no=0
 allow_debug_prompt=0
 aopspatcher=1
 author=TresilloCrack
-auto_patch=1
+auto_patch=0
 bg_music=0
 bg_music_file=C:\Users\TresilloCrack\AppData\Roaming\GLCPro\SpainMC\data\
 bg_music_loop=0
 exe_name=SpainMC
-forced_patch=1
+forced_patch=0
 includesplash=1
 internet_required=1
 launcherpages=3
@@ -217,22 +217,19 @@ title=SpainMC
 version_created=1.54
 window_draw_delay=0
 [registry]
-current=SOFTWARE\SpainMC
-reg_enabled=1
-root=HKEY_LOCAL_MACHINE
-string=InstallPath
+current=
+reg_enabled=0
+root=
+string=
 [startup]
 integrity=1
 [update]
-update_current=SOFTWARE\SpainMC
-update_ini_file=0
+update_current=
 update_ini_filename=
-update_local_file=0
 update_local_filename=
-update_reg_string=Version
-update_root=HKEY_LOCAL_MACHINE
+update_reg_string=
+update_root=
 updategroup=
-updatereg=1
 updatestring=
 [update_strings]
 0=Welcome to the Patching System
@@ -273,7 +270,7 @@ updatestring=
 autoupdate=1
 forceupdate=1
 includeupdater=0
-localfilename=C:\Users\TresilloCrack\\Escritorio\SpainRP\SpainMC\build\version.txt
+localfilename="C:\Users\TresilloCrack\\Escritorio\SpainRP\SpainMC\build\version.txt"
 surpress_up_to_date_msg=1
 updateprompt=Hay una actualizacion disponible. Desea descargarla?
 [window]
