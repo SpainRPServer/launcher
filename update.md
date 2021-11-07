@@ -1,5 +1,5 @@
 # Changelog
 
-- Opening Minecraft is not working
+- Minecraft preloaded with Mods
 - Update server wip
-- Adding more stuff
+- Own Minecraft Launcher
