@@ -87,7 +87,7 @@ wait_for_end=0
 [p1_button3]
 button_action=0
 button_commandline=Button 3
-button_url=C:\Program Files (x86)\SpainMC\VLauncher_1.1.15_Windows.exe
+button_url="C:\Program Files (x86)\SpainMC\VLauncher_1.1.15_Windows.exe"
 dim_x=305
 dim_y=572
 friendly_name=launch
@@ -278,8 +278,8 @@ updatestring=
 32=The patching process completed. You should now be all up to date.
 33=The patching process was aborted.
 [updater]
-autoupdate=0
-forceupdate=0
+autoupdate=1
+forceupdate=1
 includeupdater=1
 localfilename=C:\Program Files (x86)\SpainMC\version.txt
 remotefilename=https://raw.githubusercontent.com/SpainRPServer/launcher/main/build/version.txt
