@@ -1,6 +1,7 @@
-Button#p1_button0#1114128#0#patch versions
-Button#p1_button1#1179665#0#updates
-Button#p1_button2#1245202#0#official forums
-Button#p1_button3#1310739#0#launch
+Button#p1_button0#1114128#0#launch
+Button#p1_button1#1179665#0#official forums
+Button#p1_button2#1245202#0#updates
+Button#p1_button3#1310739#0#patch versions
 Image#p1_image0#1376276#4#Image 1
-String#p1_string0#1441813#1#String 0
+String#p1_string0#1441813#1#String 2
+String#p1_string1#1507350#1#String 0
