@@ -13,6 +13,6 @@
 ## Contiene algun tipo de virus?
   > Obviamente no, pero si no confias tienes todo el codigo fuente del projecto publico para que lo puedas comprobar. 
 
-## Como puedo entrar al server> 
+## Como puedo entrar al server?
   > Por ahora el server esta en estado de desarrollo o Work In Progress, pero creemos que para mediados de 2022 lo tendremos hecho. 
   > Para mas informacion [pagina web](https://spainrpserver.github.io)
