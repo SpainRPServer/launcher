@@ -1,7 +1,12 @@
 # Changelog
 
+# Version 0.7
+- Featuring new design
+- Backgroud video 
+- Backgroud music 
+- New play button 
 
-# Version 0.6b 
+## Version 0.6b 
 > This is a beta version and all features listed here are not supposted to run correctly  
 - Check update button now should work (check only when we release v1)
 - Launch button is working and minecraft launcher runs
