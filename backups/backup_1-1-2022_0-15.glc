@@ -15,7 +15,7 @@ version_file=https://docs.google.com/document/d/1PkDrD8vBW5Y4R4Fv8K-KA_q0mI48C5V
 [p1_button0]
 button_action=0
 button_commandline=Button 3
-button_url=VLauncher_1.1.15_Windows.exe
+button_url="C:\Program Files (x86)\SpainMC\VLauncher_1.1.15_Windows.exe"
 dim_x=305
 dim_y=572
 friendly_name=launch
@@ -173,9 +173,9 @@ dim_y=599
 friendly_name=Button 1
 goto_page=1
 gpc_patch=0
-img0=E:\TresilloCrack\Documents\SpainRP\launcherGIT\data\forum0.png
-img1=E:\TresilloCrack\Documents\SpainRP\launcherGIT\data\forum1.png
-img2=E:\TresilloCrack\Documents\SpainRP\launcherGIT\data\forum0.png
+img0=C:\Users\TresilloCrack\OneDrive - Consejería de Educación, Formación y Empleo\Escritorio\SpainRP\SpainMC\data\patch0.png
+img1=C:\Users\TresilloCrack\OneDrive - Consejería de Educación, Formación y Empleo\Escritorio\SpainRP\SpainMC\data\patch1.png
+img2=C:\Users\TresilloCrack\OneDrive - Consejería de Educación, Formación y Empleo\Escritorio\SpainRP\SpainMC\data\patch0.png
 locked=0
 o_height=37
 o_width=138
@@ -192,14 +192,14 @@ wait_for_end=0
 [p2_buttons]
 count=1
 [p2_webview0]
-dim_x=3
-dim_y=-5
+dim_x=-6
+dim_y=0
 friendly_name=Webview 1
 o_height=590
 o_width=1028
 obj_layer=1
 opacity=0
-url=https://spainrpserver.github.io/launcher/update.html
+url=https://byteboxmedia.co.uk/SoftInfo/webviewurl.htm
 [p2_webviews]
 count=1
 [page_0]
@@ -305,7 +305,7 @@ includeupdater=1
 localfilename=version.txt
 remotefilename=https://raw.githubusercontent.com/SpainRPServer/launcher/main/build/version.txt
 surpress_up_to_date_msg=0
-updatefile=https://github.com/SpainRPServer/launcher/releases/latest/download/SpainMC.exe
+updatefile=https://www.dropbox.com/s/h2aob66qq8qevsv/SpainMC.exe?dl=1
 updateprompt=Hay una actualizacion disponible. Desea descargarla?
 [window]
 allow_any_drag=0

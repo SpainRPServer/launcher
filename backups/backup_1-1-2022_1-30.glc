@@ -305,7 +305,7 @@ includeupdater=1
 localfilename=version.txt
 remotefilename=https://raw.githubusercontent.com/SpainRPServer/launcher/main/build/version.txt
 surpress_up_to_date_msg=0
-updatefile=https://github.com/SpainRPServer/launcher/releases/latest/download/SpainMC.exe
+updatefile=https://www.dropbox.com/s/h2aob66qq8qevsv/SpainMC.exe?dl=1
 updateprompt=Hay una actualizacion disponible. Desea descargarla?
 [window]
 allow_any_drag=0
