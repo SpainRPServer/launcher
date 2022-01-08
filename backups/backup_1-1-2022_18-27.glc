@@ -296,7 +296,7 @@ updatestring=
 32=The patching process completed. You should now be all up to date.
 33=The patching process was aborted.
 [updater]
-autoupdate=1
+autoupdate=0
 forceupdate=0
 includeupdater=1
 localfilename=version.txt
