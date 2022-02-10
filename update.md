@@ -1,5 +1,12 @@
 # Changelog
 
+# Version 0.8
+- Mute music button
+- Featuring new main menu
+
+
+
+
 # Version 0.7
 - Featuring new design
 - Backgroud video 
