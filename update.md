@@ -1,5 +1,10 @@
 # Changelog
 
+# Version 0.9
+- Fixed launcher bugs 
+- Mute music button is fixed but without texture/text
+- Featuring integration with TLauncher for easly launching minecraft without that console.
+
 # Version 0.8
 - Mute music button
 - Featuring new main menu
