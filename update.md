@@ -4,6 +4,7 @@
 - Fixed launcher bugs 
 - Mute music button is fixed but without texture/text
 - Featuring integration with TLauncher for easly launching minecraft without that console.
+- Updated some mods and fixed chat voice bug
 
 # Version 0.8
 - Mute music button
