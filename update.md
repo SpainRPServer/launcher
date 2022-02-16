@@ -1,5 +1,10 @@
 # Changelog
 
+# Version 1.0
+- All launcher bugs should be fixed / Todos los errores del launcher deben estar arreglado
+- If you get this error, run as administrator and should be fixed / Si te encuentras con este error, abre la aplicacion como administrador y deberia funcionar
+![image](https://user-images.githubusercontent.com/56476330/154358155-1f1a7a81-28c9-41c9-9e9f-d67f351225b1.png)
+
 # Version 0.9
 - Fixed launcher bugs 
 - Mute music button is fixed but without texture/text
